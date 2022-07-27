@@ -6,11 +6,6 @@
 ## I never stop learning
 
 <div align="center">
-7
   <a href="https://1999azzar.github.io/1999AZZAR/">
-8
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-9
-       alt="snake" /></a>
-10
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/></a>
 </div>
