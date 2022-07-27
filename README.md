@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi I'm Surachai</h1><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
+<h1 align="center">Hi I'm Surachai<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h4 align="center">a freelance developer and computer science student at sisaket rajabhat university</h4>
 </div>
 
