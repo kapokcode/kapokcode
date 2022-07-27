@@ -34,10 +34,10 @@
 </div>
 </details>
 p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -45,15 +45,10 @@ p align="center">
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+	  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kapokcode Github Stats" src="https://github-readme-stats.vercel.app/api?username=kapokcode&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+	  </a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kapokcode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kapokcode" height="192px"/>
         </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
      <br>
   </div>    
 </details>
