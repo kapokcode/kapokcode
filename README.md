@@ -118,7 +118,7 @@
   <br/>
    <a href="https://github.com/kapokcode"><img alt="Kapokcode Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kapokcode&custom_title=kapokcode's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+  <br>
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
