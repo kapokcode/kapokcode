@@ -50,10 +50,7 @@
 
 <br/>
 
-## :trophy: Git profile Trophies
-
-<p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	     <img src="https://github-profile-trophy.vercel.app/?username=kapokcode&layout=compact&theme=algolia" alt="7oskaaa" />
-	</a> 
-</p>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/kapokcode"><img alt="Kapokcode Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kapokcode&custom_title=kapokcode's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
