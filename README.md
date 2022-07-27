@@ -33,11 +33,8 @@
   </samp>
 </div>
 </details>
-p align="center">
-    
+
 <br/>
-  &nbsp;
-	  
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
