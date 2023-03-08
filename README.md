@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm kapokcode</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate backend developer from China</h3>
 <img src="/assets/code.gif" width="390" align="right" />
+
+:octocat: I joined Github on `21 Aug 2020`
+:people_hugging: I contributed to `10` repositories , made `370` commits and made `5` PRs.
 <p>💬 Want to know more about me? Visit my  <b><a href="http://kapokcode.netlify.app/"> Website</a></p>
 <p> 📫 Reach me at <b>kapokoffical@gmail.com</b></p>
 
